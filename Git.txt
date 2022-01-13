@@ -4,3 +4,6 @@ My To-do List for 13/01/2022
 2.Next video after that
 3.Complete GIT AND GITHUB
 4.Complete React with firebase
+5.Practice Some code
+6.Search for internships
+7.Explore contests
